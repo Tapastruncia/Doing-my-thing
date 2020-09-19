@@ -1,15 +1,21 @@
 ---
-title: Your first seed
+title: My experiment on time tracking
 image: /assets/image.jpg
 ---
 
-### Welcome! Bienvenidos a La Isla!
+### ´Time is your most precious asset´
 
-This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory.
+And the most ephemeral without a doubt 🦋. The fact that I have limited time on this earth has always concerned me and made me extremely aware of the hour, place and activity I was performing at any given situation (let's not forget that feeling of "I am not doing enough and time just slips away!"). Fortunately, as I've grown a little bit older I've learnt to enjoy the present moment and use my time more **wisely and mindfully**. 
 
-### Link syntax
+### Running the experiment
 
-To link to another note, you can use regular [Markdown syntax](https://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
+With that goal in mind, I've decided to track my time in a very visual way so I will be able to see patterns in my use of this precious asset and make decisions accordingly. Basically what technology consultants call _data visualization_ and _data-driven decision making_. You got to love it.
+
+
+
+
+
+A couple of months ago I To link to another note, you can use regular [Markdown syntax](htps://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
 
 Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is the same note about cats as above</a>.
 
