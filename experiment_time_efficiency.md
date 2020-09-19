@@ -3,49 +3,28 @@ title: My experiment on time tracking
 image: /images/Time track.png
 ---
 
-### ´Time is your most precious asset´
+### Time is your most precious asset
 
-And the most ephemeral without a doubt 🦋. The fact that I have limited time on this earth has always concerned me and made me extremely aware of the hour, place and activity I was performing at any given situation (let's not forget that feeling of "I am not doing enough and time just slips away!"). Fortunately, as I've grown a little bit older I've learnt to enjoy the present moment and use my time more **wisely and mindfully**. 
+And the most ephemeral without a doubt 🦋. The fact that I have **limited time on this earth** has always concerned me and made me extremely aware of the hour, place and activity I was performing at any given situation (let's not forget that feeling of "I am not doing enough and time just slips away!"). Fortunately, as I've grown a little bit older I've learnt to enjoy the present moment and use my time more **wisely and mindfully**. 
 
-### Running the experiment
+With that goal in mind, I've decided to track my time in a very visual way so I will be able to see patterns and make decisions accordingly. This is what they call **_data visualization_** and **_data-driven decision making_**. You got to love it 💘 
 
-With that goal in mind, I've decided to track my time in a very visual way so I will be able to see patterns in my use of this precious asset and make decisions accordingly. Basically what technology consultants call _data visualization_ and _data-driven decision making_. You got to love it.
-
-
+I got the inspiration from [someone I follow on Instagram](https://www.instagram.com/shifrasamuel/), a creative that has lived in California, Amsterdam and Singapore and always has something somewhat interesting to share. The experiment is simple, all you need is Excel and the will to do this 🚀 
 
 
+### The step-by-step guide
+  
+  1. Open an Excel spreadsheet.
+  2. Draw a table that shows **daily time** (hours or half hours) and **weekdays**.
+  3. List all your **activity categories** (i.e. exercise, work, social life, reading, creativity) and give a **color** to each one.
+  4. Begin your time tracking and **keep it up**.
+  
+  This is what's beggining to look like for me:
+  
+<img src="images/Time%20track.png" width=500>
 
-A couple of months ago I To link to another note, you can use regular [Markdown syntax](htps://www.markdownguide.org/getting-started/) for links, with a relative link to the other note, like this: [this is a link to a note about cats](/cats){: .internal-link}. Don't forget to use the `.internal-link` class to make sure the link is styled as an internal link.
+Remember, this is a tool to understand **how you currently use your time**, and later detect what activities you feel you should increase/decrease your time investment in, and do it: _Time Optimization_ at its best.
 
-Since the Web is all about HTML, you can always use plain HTML if you want, like this: <a class="internal-link" href="/cats">This is the same note about cats as above</a>.
 
-Of course, you can also link to external websites, like this: [this is a link to Wikipedia](https://wikipedia.org/). Again, you can use plain HTML if you prefer.
-
-Additionally, you can use Roam/wiki-style link syntax by wrapping a note's title in double brackets, like this: [[A note about cats]]. If the Roam-style link does not point to a valid note's title, the double brackets will still be shown, like this: [[There is no note with this title]].
-
-### Automatic bi-directional links
-
-Notice in the "Notes mentioning this note" section that there is another note linking to this note. This is a bi-directional link, and those are automatically created when you create links to other notes.
-
-### Link previews
-
-If you're on a device with mouse support, try hovering your mouse on internal links to preview the notes: [[A note about cats]]
-
-### Images
-
-Finally, you can display images using Markdown syntax, like this:
-
-![](images/Time track.png)
-
-![What it's beggining to look like!](images/Time track.png)
-
-### Next steps
-
-**If this template is useful to you in any way, consider [donating](https://github.com/sponsors/maximevaillancourt) to support my work**.
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to build your own digital garden based on this template is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
-
-Go forth, have fun, and learn new something every day! ✌️
+In a couple of weeks you'll begin to see your true colors!👋
 
