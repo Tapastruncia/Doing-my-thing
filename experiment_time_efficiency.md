@@ -35,7 +35,9 @@ If you're on a device with mouse support, try hovering your mouse on internal li
 
 Finally, you can display images using Markdown syntax, like this:
 
-![] (https://github.com/Tapastruncia/Doing-my-thing/blob/master/images/Time%20track.png)
+![](images/Time track.png)
+
+![What it's beggining to look like!](images/Time track.png)
 
 ### Next steps
 
