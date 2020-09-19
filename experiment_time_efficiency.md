@@ -40,4 +40,4 @@ In a couple of weeks you'll begin to see your true colors!👋
 
 <p>&nbsp;<p> 
  
-[<img src="images/instagramlogo.png" width=16>](https://www.instagram.com/tapistron/) tapistron
+[<img src="images/instagramlogo.png" width=16>](https://www.instagram.com/tapistron/) tapistron, 19 Sept 2020
