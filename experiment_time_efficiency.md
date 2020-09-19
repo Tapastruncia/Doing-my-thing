@@ -35,7 +35,7 @@ If you're on a device with mouse support, try hovering your mouse on internal li
 
 Finally, you can display images using Markdown syntax, like this:
 
-![]({{page.image}})
+![]({{Time track.png}})
 
 ### Next steps
 
