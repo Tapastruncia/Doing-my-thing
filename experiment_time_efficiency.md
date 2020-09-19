@@ -1,6 +1,6 @@
 ---
 title: My experiment on time tracking
-image: /assets/image.jpg
+image: /images/Time track.png
 ---
 
 ### ´Time is your most precious asset´
@@ -35,7 +35,7 @@ If you're on a device with mouse support, try hovering your mouse on internal li
 
 Finally, you can display images using Markdown syntax, like this:
 
-![]({{Time track.png}})
+![Time track.png] https://github.com/Tapastruncia/Doing-my-thing/blob/master/images/Time%20track.png
 
 ### Next steps
 
