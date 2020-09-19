@@ -1,7 +1,4 @@
----
-title: My experiment on time tracking
-image: /images/Time track.png
----
+# My experiment on time tracking
 
 ### Time is your most precious asset
 
