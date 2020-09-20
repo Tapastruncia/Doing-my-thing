@@ -9,5 +9,8 @@ In this space I'll be saving some of my thoughts on self, work, efficiency, crea
 _May you enjoy the content_ 😎
 
 <p>&nbsp;<p> 
+  
+  ----------
+  Topics: the genius of larry david, 
 
 [<img src="images/instagramlogo.png" width=16>](https://www.instagram.com/tapistron/) tapistron, 19 Sept 2020
