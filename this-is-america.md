@@ -16,9 +16,7 @@ _May you enjoy the content_ 😎
 
 
 
-
-
-[<img src="images/thisisamerica1.png" width=16>](https://www.youtube.com/watch?v=VYOjWnS4cMY){:target="_blank"}
+![images/thisisamerica1.png](https://www.youtube.com/watch?v=VYOjWnS4cMY)
 
 
 
