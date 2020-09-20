@@ -14,17 +14,11 @@ _May you enjoy the content_ 😎
   Topics: the genius of larry david, 
   
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=VYOjWnS4cMY" />
-  <param name="wmode" value="transparent" />
-  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
-[![childish gambino in this is america](images/thisisamerica1.png)](https://www.youtube.com/watch?v=VYOjWnS4cMY)
 
 
+
+
+[<img src="images/thisisamerica1.png" width=16>](https://www.youtube.com/watch?v=VYOjWnS4cMY){:target="_blank"}
 
 
 
