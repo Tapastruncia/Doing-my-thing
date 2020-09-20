@@ -17,7 +17,7 @@ _May you enjoy the content_ 😎
 
 [![childish gambino on this is america](images/thisisamerica1.png)](https://www.youtube.com/watch?v=VYOjWnS4cMY)
 
-[images/thisisamerica1.png](https://www.youtube.com/watch?v=VYOjWnS4cMY)
+
 
 
 
