@@ -11,6 +11,6 @@ _May you enjoy the content_ 😎
 <p>&nbsp;<p> 
   
   ----------
-  Topics: the genius of larry david, 
+  Topics: the genius of larry david, show your work, 
 
 [<img src="images/instagramlogo.png" width=16>](https://www.instagram.com/tapistron/) tapistron, 19 Sept 2020
