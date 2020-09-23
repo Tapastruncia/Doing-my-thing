@@ -10,6 +10,11 @@ _BLA _ 😎
 
 <p>&nbsp;<p> 
   
+  
+  This is what's beggining to look like for me:
+  
+<img src="Doing-my-thing/images/Time%20track.png" width=650>
+  
   ----------
   Topics: the genius of larry david, 
   
