@@ -15,7 +15,7 @@ _May you enjoy the content_ 😎
   
 
 
-[![childish gambino on this is america](Doing-my-thing/images/thisisamerica1.png)](https://www.youtube.com/watch?v=VYOjWnS4cMY)
+[![childish gambino on this is america](Doing-my-thing/images/thisisamerica.png)](https://www.youtube.com/watch?v=VYOjWnS4cMY)
 
 
 
@@ -24,3 +24,4 @@ _May you enjoy the content_ 😎
 
 
 [<img src="Doing-my-thing/images/instagramlogo.png" width=16>](https://www.instagram.com/tapistron/) tapistron, 19 Sept 2020
+[<img src="Doing-my-thing/images/instagramlogo.png" width=16>](https://www.instagram.com/tapistron/) tapistron, 21 Sept 2020
