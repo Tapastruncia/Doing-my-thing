@@ -28,7 +28,7 @@ I got the inspiration from [someone I follow on Instagram](https://www.instagram
   
   This is what's beggining to look like for me:
   
-<img src="images/Time%20track.png" width=650>
+<img src="Doing-my-thing/images/Time%20track.png" width=650>
  
  
 ⚠️ Remember, this is a tool to understand **how you currently use your time**, and later detect what activities you feel you should increase/decrease your time investment in, **and do it:** _Time Optimization_ at its best.
